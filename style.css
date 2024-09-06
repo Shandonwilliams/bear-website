@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+
+li {
+    color: salmon
+}
+
+ol li {
+    color: maroon
+}
+
+h2:hover {
+    color: purple;
+}
